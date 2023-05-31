@@ -1,18 +1,64 @@
 .container {
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-areas: repeat(auto-fit,minmax(300px,1fr));
     
     gap: 10px 10px;
     
   }
 
   .cuadro{
-    background-color: rgb(0, 255, 195);
-    min-width: 350px;
-    min-height: 350px;
+    background-color: rgb(244, 169, 78);
+    min-width: 250px;
+    min-height: 250px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: black;
-    font-size: 80px;
+    color: rgb(16, 16, 16);
+    font-size: 180px;
   }
+  
+  /* Colores generados automáticamente */
+  .cuadro:nth-child(1) { background-color: #FF6384; }
+  .cuadro:nth-child(2) { background-color: #36A2EB; }
+  .cuadro:nth-child(3) { background-color: #FFCE56; }
+  .cuadro:nth-child(4) { background-color: #33FF44; }
+  .cuadro:nth-child(5) { background-color: #33FFE3; }
+  .cuadro:nth-child(6) { background-color: #33C2FF; }
+  .cuadro:nth-child(7) { background-color: #33FF95; }
+  .cuadro:nth-child(8) { background-color: #11D06D; }
+  .cuadro:nth-child(9) { background-color: #097A40; }
+  .cuadro:nth-child(10) { background-color: #1D6C43; }  
+  .cuadro:nth-child(11) { background-color: #FF69B4; }
+  .cuadro:nth-child(12) { background-color: #FFFFFF; }
+  .cuadro:nth-child(13) { background-color: #808080; }
+  .cuadro:nth-child(14) { background-color: #800000; }
+  .cuadro:nth-child(15) { background-color: #FFD700; }
+  .cuadro:nth-child(16) { background-color: #008000; }
+  .cuadro:nth-child(17) { background-color: #000080; }
+  .cuadro:nth-child(18) { background-color: #FF4500; }
+  .cuadro:nth-child(19) { background-color: #FF6347; }
+  .cuadro:nth-child(20) { background-color: #40E0D0; }
+  .cuadro:nth-child(21) { background-color: #00FF7F; }
+  .cuadro:nth-child(22) { background-color: #3CB371; }
+  .cuadro:nth-child(23) { background-color: #2E8B57; }
+  .cuadro:nth-child(24) { background-color: #BDB76B; }
+  .cuadro:nth-child(25) { background-color: #FF8C00; }
+  .cuadro:nth-child(26) { background-color: #7B68EE; }
+  .cuadro:nth-child(27) { background-color: #9370DB; }
+  .cuadro:nth-child(28) { background-color: #32CD32; }
+  .cuadro:nth-child(29) { background-color: #8B0000; }
+  .cuadro:nth-child(30) { background-color: #1E90FF; }
+
+  
+  @media (width <= 620px) {
+    .cuadro{
+        background-color: rgb(72, 108, 175);
+        color: rgb(33, 213, 20);
+        
+        
+    }
+}
+
+
+
