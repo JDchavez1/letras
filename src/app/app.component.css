@@ -17,6 +17,12 @@
     color: rgb(16, 16, 16);
     font-size: 180px;
   }
+  .textPrim{
+  color: transparent;
+  display: none;
+    
+  }
+
   
   /* Colores generados automáticamente */
   .cuadro:nth-child(1) { background-color: #FF6384; }
@@ -110,29 +116,91 @@
   .cuadro:nth-child(89) { background-color: #097A40; }
   .cuadro:nth-child(90) { background-color: #1D6C43; }
 
+  .color:nth-child(2) { background-color: #6c691d; }
+  .color:nth-child(2) {background-color: #00FF7F;}
+
+  .color:nth-child(2) { background-color: #5c432f; }
+    .color:nth-child(3) { background-color: #1d296c; }
+    .color:nth-child(4) { background-color: #e1966a; }
+    .color:nth-child(5) { background-color: #6b0518; }
+    .color:nth-child(6) { background-color: #707aae; }
+    .color:nth-child(7) { background-color: #bc7c6c; }
+    .color:nth-child(8) { background-color: #ce7acf; }
+    .color:nth-child(9) { background-color: #b700ff; }
+    .color:nth-child(10) { background-color: #b3d9c5; }
+    .color:nth-child(11) { background-color: #2c3943; }
+    .color:nth-child(12) { background-color: #08ee772c; }
+    .color:nth-child(13) { background-color: #610c2783; }
+    .color:nth-child(14) { background-color: #9bc8b182; }
+    .color:nth-child(15) { background-color: #c8ef4a86; }
   
   @media (width <= 620px) {
     .cuadro{
         background-color: rgb(72, 108, 175);
-        color: rgb(33, 213, 20);
-        column-count: 2;
-        
-
-        
-        
+        color: rgb(33, 213, 20);  
     }
     .primos{
       color: rgb(255, 0, 0);
-
-    }
-
-    .primos::before{content: "es un numero primo";
-      display: flex;
-      text-align: center;
       
     }
+    .color:nth-child(1) { background-color: #1D6C43; }
+    .color:nth-child(2) { background-color: #281d8c ; }
+      .color:nth-child(3) { background-color: #1d296c; }
+      .color:nth-child(4) { background-color: #e1966a; }
+      .color:nth-child(5) { background-color: #6b0518; }
+      .color:nth-child(6) { background-color: #707aae; }
+      .color:nth-child(7) { background-color: #bc7c6c; }
+      .color:nth-child(8) { background-color: #ce7acf; }
+      .color:nth-child(9) { background-color: #b700ff; }
+      .color:nth-child(10) { background-color: #b3d9c5; }
+      .color:nth-child(11) { background-color: #2c3943; }
+      .color:nth-child(12) { background-color: #08ee772c; }
+      .color:nth-child(13) { background-color: #610c2783; }
+      .color:nth-child(14) { background-color: #9bc8b182; }
+      .color:nth-child(15) { background-color: #c8ef4a86; }
+
     
+     .numpri:nth-child(1) { background-color: #551966 ;}
+    .numpri:nth-child(2) { background-color: #281d8c; }
+    .numpri:nth-child(3) { background-color: #1D6C43; }
+    .numpri:nth-child(4) { background-color: #1D6C43; }
+    .numpri:nth-child(5) { background-color: #1D6C43; }
+    .numpri:nth-child(6) { background-color: #1D6C43; }
+    .numpri:nth-child(7) { background-color: #1D6C43; }
+    .numpri:nth-child(8) { background-color: #1D6C43; }
+    .numpri:nth-child(9) { background-color: #1D6C43; }
+    .numpri:nth-child(10) { background-color: #1D6C43; }
+    .numpri:nth-child(11) { background-color: #1D6C43; }
+    .numpri:nth-child(12) { background-color: #1D6C43; }
+    .numpri:nth-child(13) { background-color: #1D6C43; }
+    .numpri:nth-child(14) { background-color: #1D6C43; }
+    .numpri:nth-child(15) { background-color: #1D6C43; } 
+
+    .numpri{
+      
+      display:flex ;
+      
     }
+
+    .textPrim{
+      display:flex !important;
+      text-align: center;
+      padding-top: 2rem;
+      font-size: 50px;
+    color: black !important;
+  }
+
+    }
+
+    /* .primos::before{
+      content: "es un numero primo";
+      
+      font-size: 50px;
+      
+      
+    } */
+    
+    
 
 
 
