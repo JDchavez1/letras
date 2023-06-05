@@ -48,56 +48,56 @@
   .cuadro:nth-child(21) { background-color: #00FF7F; }
   .cuadro:nth-child(22) { background-color: #3CB371; }
   .cuadro:nth-child(23) { background-color: #2E8B57; }
-  .cuadro:nth-child(24) { background-color: #BDB76B; }
-  .cuadro:nth-child(25) { background-color: #FF8C00; }
-  .cuadro:nth-child(26) { background-color: #7B68EE; }
-  .cuadro:nth-child(27) { background-color: #9370DB; }
-  .cuadro:nth-child(28) { background-color: #32CD32; }
-  .cuadro:nth-child(29) { background-color: #8B0000; }
-  .cuadro:nth-child(30) { background-color: #1E90FF; }
-  .cuadro:nth-child(31) { background-color: #8B008B; }
-  .cuadro:nth-child(32) { background-color: #FF00FF; }
-  .cuadro:nth-child(33) { background-color: #7FFF00; }
-  .cuadro:nth-child(34) { background-color: #DC143C; }
-  .cuadro:nth-child(35) { background-color: #556B2F; }
-  .cuadro:nth-child(36) { background-color: #FFD700; }
-  .cuadro:nth-child(37) { background-color: #9932CC; }
-  .cuadro:nth-child(38) { background-color: #008B8B; }
-  .cuadro:nth-child(39) { background-color: #8B4513; }
-  .cuadro:nth-child(40) { background-color: #F0E68C; }
-  .cuadro:nth-child(41) { background-color: #FFB6C1; }
-  .cuadro:nth-child(42) { background-color: #7CFC00; }
-  .cuadro:nth-child(43) { background-color: #FF69B4; }
-  .cuadro:nth-child(44) { background-color: #CD5C5C; }
-  .cuadro:nth-child(45) { background-color: #4169E1; }
-  .cuadro:nth-child(46) { background-color: #FF00FF; }
-  .cuadro:nth-child(47) { background-color: #7CFC00; }
-  .cuadro:nth-child(48) { background-color: #B22222; }
-  .cuadro:nth-child(49) { background-color: #BA55D3; }
-  .cuadro:nth-child(50) { background-color: #4682B4; }
-  .cuadro:nth-child(51) { background-color: #FF6384; }
-  .cuadro:nth-child(52) { background-color: #36A2EB; }
-  .cuadro:nth-child(53) { background-color: #FFCE56; }
-  .cuadro:nth-child(54) { background-color: #33FF44; }
-  .cuadro:nth-child(55) { background-color: #33FFE3; }
-  .cuadro:nth-child(56) { background-color: #33C2FF; }
-  .cuadro:nth-child(57) { background-color: #33FF95; }
-  .cuadro:nth-child(58) { background-color: #11D06D; }
-  .cuadro:nth-child(59) { background-color: #097A40; }
-  .cuadro:nth-child(60) { background-color: #1D6C43; }
-  .cuadro:nth-child(61) { background-color: #FF6384; }
-  .cuadro:nth-child(62) { background-color: #36A2EB; }
-  .cuadro:nth-child(63) { background-color: #FFCE56; }
-  .cuadro:nth-child(64) { background-color: #33FF44; }
-  .cuadro:nth-child(65) { background-color: #33FFE3; }
-  .cuadro:nth-child(66) { background-color: #33C2FF; }
-  .cuadro:nth-child(67) { background-color: #33FF95; }
-  .cuadro:nth-child(68) { background-color: #11D06D; }
-  .cuadro:nth-child(69) { background-color: #097A40; }
-  .cuadro:nth-child(70) { background-color: #1D6C43; }
-  .cuadro:nth-child(71) { background-color: #FF6384; }
-  .cuadro:nth-child(72) { background-color: #36A2EB; }
-  .cuadro:nth-child(73) { background-color: #FFCE56; }
+  .cuadro:nth-child(24) { background-color: #BA55D3; }
+  .cuadro:nth-child(25) { background-color: #4682B4; }
+  .cuadro:nth-child(26) { background-color: #DAA520; }
+  .cuadro:nth-child(27) { background-color: #A0522D; }
+  .cuadro:nth-child(28) { background-color: #FA8072; }
+  .cuadro:nth-child(29) { background-color: #6A5ACD; }
+  .cuadro:nth-child(30) { background-color: #ADFF2F; }
+  .cuadro:nth-child(31) { background-color: #8B4513; }
+  .cuadro:nth-child(32) { background-color: #9932CC; }
+  .cuadro:nth-child(33) { background-color: #87CEEB; }
+  .cuadro:nth-child(34) { background-color: #FF7F50; }
+  .cuadro:nth-child(35) { background-color: #F08080; }
+  .cuadro:nth-child(36) { background-color: #00CED1; }
+  .cuadro:nth-child(37) { background-color: #F4A460; }
+  .cuadro:nth-child(38) { background-color: #8A2BE2; }
+  .cuadro:nth-child(39) { background-color: #FF4500; }
+  .cuadro:nth-child(40) { background-color: #228B22; }
+  .cuadro:nth-child(41) { background-color: #B0C4DE; }
+  .cuadro:nth-child(42) { background-color: #8B008B; }
+  .cuadro:nth-child(43) { background-color: #FF6347; }
+  .cuadro:nth-child(44) { background-color: #483D8B; }
+  .cuadro:nth-child(45) { background-color: #FFDAB9; }
+  .cuadro:nth-child(46) { background-color: #6B8E23; }
+  .cuadro:nth-child(47) { background-color: #9932CC; }
+  .cuadro:nth-child(48) { background-color: #4B0082; }
+  .cuadro:nth-child(49) { background-color: #FFA07A; }
+  .cuadro:nth-child(50) { background-color: #000080; }
+  .cuadro:nth-child(51) { background-color: #E9967A; }
+  .cuadro:nth-child(52) { background-color: #00BFFF; }
+  .cuadro:nth-child(53) { background-color: #D2B48C; }
+  .cuadro:nth-child(54) { background-color: #8B4513; }
+  .cuadro:nth-child(55) { background-color: #ADFF2F; }
+  .cuadro:nth-child(56) { background-color: #5F9EA0; }
+  .cuadro:nth-child(57) { background-color: #FF00FF; }
+  .cuadro:nth-child(58) { background-color: #FFFAF0; }
+  .cuadro:nth-child(59) { background-color: #A0522D; }
+  .cuadro:nth-child(60) { background-color: #6495ED; }
+  .cuadro:nth-child(61) { background-color: #FF4500; }
+  .cuadro:nth-child(62) { background-color: #E0FFFF; }
+  .cuadro:nth-child(63) { background-color: #8B0000; }
+  .cuadro:nth-child(64) { background-color: #FFE4B5; }
+  .cuadro:nth-child(65) { background-color: #2F4F4F; }
+  .cuadro:nth-child(66) { background-color: #7FFF00; }
+  .cuadro:nth-child(67) { background-color: #D2691E; }
+  .cuadro:nth-child(68) { background-color: #FFF8DC; }
+  .cuadro:nth-child(69) { background-color: #9932CC; }
+  .cuadro:nth-child(70) { background-color: #4169E1; }
+  .cuadro:nth-child(71) { background-color: #8B008B; }
+  .cuadro:nth-child(72) { background-color: #FF00FF; }
+  .cuadro:nth-child(73) { background-color: #7CFC00; }
   .cuadro:nth-child(74) { background-color: #33FF44; }
   .cuadro:nth-child(75) { background-color: #33FFE3; }
   .cuadro:nth-child(76) { background-color: #33C2FF; }
@@ -115,6 +115,16 @@
   .cuadro:nth-child(88) { background-color: #11D06D; }
   .cuadro:nth-child(89) { background-color: #097A40; }
   .cuadro:nth-child(90) { background-color: #1D6C43; }
+  .cuadro:nth-child(91) { background-color: #008B8B; }
+  .cuadro:nth-child(92) { background-color: #8B4513; }
+  .cuadro:nth-child(93) { background-color: #F0E68C; }
+  .cuadro:nth-child(94) { background-color: #FFB6C1; }
+  .cuadro:nth-child(95) { background-color: #7CFC00; }
+  .cuadro:nth-child(96) { background-color: #FF69B4; }
+  .cuadro:nth-child(97) { background-color: #4169E1; }
+  .cuadro:nth-child(98) { background-color: #FF00FF; }
+  .cuadro:nth-child(99) { background-color: #7CFC00; }
+  .cuadro:nth-child(100) { background-color: #B22222; }
 
   .color:nth-child(2) { background-color: #6c691d; }
   .color:nth-child(2) {background-color: #00FF7F;}
