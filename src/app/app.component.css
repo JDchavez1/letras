@@ -144,7 +144,7 @@
     .color:nth-child(14) { background-color: #9bc8b182; }
     .color:nth-child(15) { background-color: #c8ef4a86; }
   
-  @media (width <= 620px) {
+  @media (width <= 621px) {
     .cuadro{
         background-color: rgb(72, 108, 175);
         color: rgb(33, 213, 20);  
